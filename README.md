@@ -1,6 +1,9 @@
 # restaurant-table-reservation-backend
 A Restaurant Reservation System that is used to keep track of guest reservations and table assignments. The user can create new reservations. They can also keep track of where reservations are seated and tables are occupied.
 
+[Link to Frontend](https://github.com/shahira-sadat/restaurant-table-reservation)
+
+
 ## Pages
 
 # Dashboard
@@ -29,5 +32,12 @@ To start the server, use npm start.
 ```
 npm run start
 ```
-[Link to Frontend](https://github.com/shahira-sadat/restaurant-table-reservation)
+
+## Author
+
+👤 *Shahira Sadat*👩🏻‍💻
+- GitHub: [Shahira Sadat](https://github.com/shahira-sadat)
+- Twitter: [Shahira Sadat](https://twitter.com/SadatShahira)
+- Linkedin: [Shahira Sadat](https://www.linkedin.com/in/shahira-sadat-49b402199)
+
 
